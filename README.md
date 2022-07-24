@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm cHiRaG</h1>
 <h3 align="center">A passionate frontend , Backend, Andriod developer from India .I'm currently a computer science student and honing my programming skills.AND Intrested in solving hardcore logical Questions.</h3>
 
-- 🔭 I’m currently working on **geeksforgeeks clone website**
+- 🔭 I’m currently working on **Website Devlopment**
 
-- 🌱 I’m currently learning **Java ,Java Script,flutter.**
+- 🌱 I’m currently learning **Java--Java Script--flutter.**
 
 - 👯 I’m looking to collaborate on **Java projects**
 
