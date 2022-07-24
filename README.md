@@ -13,11 +13,11 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 INSTGRAM **__chirag_15__**
+- 📫 INSTGRAM https://www.instagram.com/__chirag_15__/
 
 - ⚡ Fun fact **I am half finished**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/chirag-rawat-86abb6233</h3>
 <p align="left">
 </p>
 
